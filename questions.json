@@ -1,0 +1,1276 @@
+[
+  {
+    "question": "The nose of the redesigned Shinkansen bullet train is inspired by?",
+    "options": ["Kingfisher beak", "Crane peak", "Owl peak", "Heron peak"],
+    "answer": "Kingfisher beak"
+  },
+  {
+    "question": "Passive cooling in skyscrapers is inspired by?",
+    "options": ["Termite mounds", "Earthwork mounds", "Ant mounds", "Spiro mounds"],
+    "answer": "Termite mounds"
+  },
+  {
+    "question": "Belt movement of military tanks was inspired by?",
+    "options": ["Caterpillar movement", "Termite movement", "Ant movement", "Butterfly movement"],
+    "answer": "Caterpillar movement"
+  },
+  {
+    "question": "Retinal prosthetic developed by scientists is approved by?",
+    "options": ["USFDA", "USEPA", "CPCB", "SPCB"],
+    "answer": "USFDA"
+  },
+  {
+    "question": "The gene from which organism was used to develop genetically modified corn?",
+    "options": ["Bacillus thuringiensis", "Bacillus cereus", "Bacillus subtilis", "Bacillus anthracis"],
+    "answer": "Bacillus thuringiensis"
+  },
+  {
+    "question": "Protein produced by Bacillus thuringiensis which has insecticide property is?",
+    "options": ["Cry protein", "Res protein", "Try protein", "Taf protein"],
+    "answer": "Cry protein"
+  },
+  {
+    "question": "Biofertilizers have the potential to?",
+    "options": [
+      "Replace chemical nitrogen and phosphorus",
+      "Reduce crop yield",
+      "Destimulate plant growth",
+      "Reduce soil fertility"
+    ],
+    "answer": "Replace chemical nitrogen and phosphorus"
+  },
+  {
+    "question": "In self-healing concrete the microstructure analysis can be done by?",
+    "options": ["SEM", "XRD", "FTIR", "XPS"],
+    "answer": "SEM"
+  },
+  {
+    "question": "Which is a pollution control technique using a bioreactor containing living material?",
+    "options": ["Biofiltration", "Bioaugmentation", "Bioleaching", "Biomimetics"],
+    "answer": "Biofiltration"
+  },
+  {
+    "question": "A nanoparticle ranges between?",
+    "options": ["1 to 100 nm", "1 to 100 mm", "1 to 1000 nm", "1 to 10 µm"],
+    "answer": "1 to 100 nm"
+  },
+  {
+    "question": "The tensile strength of carbon nanotubes is approximately how many times greater than steel?",
+    "options": ["100", "10", "25", "50"],
+    "answer": "100"
+  },
+  {
+    "question": "Who first used the term nanotechnology and when?",
+    "options": [
+      "Norio Taniguchi, 1974",
+      "Richard Feynman, 1959",
+      "Eric Drexler, 1986",
+      "Alexander Fleming, 1940"
+    ],
+    "answer": "Norio Taniguchi, 1974"
+  },
+  {
+    "question": "The width of carbon nanotube is?",
+    "options": ["0.5–2.5 nm", "0.1–0.5 nm", "2.5–4.5 nm", "4.5–6.5 nm"],
+    "answer": "0.5–2.5 nm"
+  },
+  {
+    "question": "If 10 hydrogen atoms are laid side by side the length would be?",
+    "options": ["7 nm", "10 nm", "2 nm", "20 nm"],
+    "answer": "7 nm"
+  },
+  {
+    "question": "Human hair is approximately how many nm in size?",
+    "options": ["50000–100000", "500–1000", "500000–1000000", "50–100"],
+    "answer": "50000–100000"
+  },
+  {
+    "question": "The prefix nano comes from which language?",
+    "options": ["Greek", "French", "Spanish", "Latin"],
+    "answer": "Greek"
+  },
+  {
+    "question": "Why is there a need to switch to organic farming?",
+    "options": [
+      "Increasing environmental pollution",
+      "Increasing poverty",
+      "Increasing road accidents",
+      "Increasing population"
+    ],
+    "answer": "Increasing environmental pollution"
+  },
+  {
+    "question": "Early detection of cancer can be achieved by?",
+    "options": ["AI", "CCD", "BBD", "MRIS"],
+    "answer": "AI"
+  },
+  {
+    "question": "Prokaryotic cell size ranges from?",
+    "options": ["0.1 to 5.0 μm", "0.1 to 50 μm", "10 to 50 μm", "2 to 10 μm"],
+    "answer": "0.1 to 5.0 μm"
+  },
+  {
+    "question": "Which cells do not have a true nucleus and membrane-bound organelles?",
+    "options": ["Prokaryotic cells", "Eukaryotic cells", "Plant cells", "Animal cells"],
+    "answer": "Prokaryotic cells"
+  },
+  {
+    "question": "Mitochondria, Golgi bodies and lysosomes are absent in?",
+    "options": ["Prokaryotic cells", "Eukaryotic cells", "Plant cells", "Animal cells"],
+    "answer": "Prokaryotic cells"
+  },
+  {
+    "question": "Which protein is an important constituent of eukaryotic chromosomes?",
+    "options": ["Histone", "Heme", "Cistone", "Diastone"],
+    "answer": "Histone"
+  },
+  {
+    "question": "The asexual mode of division in prokaryotes is?",
+    "options": ["Binary fission", "Conjugation", "Ligation", "Mitosis"],
+    "answer": "Binary fission"
+  },
+  {
+    "question": "The sexual mode of reproduction in prokaryotes is?",
+    "options": ["Conjugation", "Binary fission", "Ligation", "Mitosis"],
+    "answer": "Conjugation"
+  },
+  {
+    "question": "The outer protective covering found in bacterial cells which helps in attachment is?",
+    "options": ["Capsule", "Cell wall", "Cell membrane", "Cytoplasm"],
+    "answer": "Capsule"
+  },
+  {
+    "question": "Which organelle is involved in protein synthesis?",
+    "options": ["Ribosomes", "Lysosomes", "Mitochondria", "Vacuoles"],
+    "answer": "Ribosomes"
+  },
+  {
+    "question": "Hair-like outgrowths that attach to the surface of other bacterial cells are?",
+    "options": ["Pili", "Capsule", "Flagella", "Cilia"],
+    "answer": "Pili"
+  },
+  {
+    "question": "Which instrument is used to observe viruses?",
+    "options": [
+      "Electron microscope",
+      "Light microscope",
+      "Naked eye",
+      "Fluorescent microscope"
+    ],
+    "answer": "Electron microscope"
+  },
+  {
+    "question": "Which organisms possess extrachromosomal DNA known as plasmids?",
+    "options": ["Bacteria", "Fungi", "Yeast", "Plant cell"],
+    "answer": "Bacteria"
+  },
+  {
+    "question": "Cell wall of bacterial cell is composed of?",
+    "options": ["Peptidoglycan", "Protein", "Cellulose", "Chitin"],
+    "answer": "Peptidoglycan"
+  },
+  {
+    "question": "Chitin is the structural component present in which cell wall?",
+    "options": ["Fungal", "Bacterial", "Cyanobacterial", "Virus"],
+    "answer": "Fungal"
+  },
+  {
+    "question": "Gram positive bacteria have thick layer of?",
+    "options": ["Peptidoglycan", "Chitin", "Mannose", "Teichoic acid"],
+    "answer": "Peptidoglycan"
+  },
+  {
+    "question": "Gram negative organisms are very ______ to antibiotics?",
+    "options": ["Resistant", "Susceptible", "Receptive", "Vulnerable"],
+    "answer": "Resistant"
+  },
+  {
+    "question": "Lipid content is very low in gram positive bacteria?",
+    "options": ["Lipid", "Carbohydrate", "Protein", "Fat"],
+    "answer": "Lipid"
+  },
+  {
+    "question": "Cell wall thickness of gram positive organism is?",
+    "options": ["20–80 nm", "2–8 nm", "200–800 nm", "150–300 nm"],
+    "answer": "20–80 nm"
+  },
+  {
+    "question": "Gram positive bacteria appear ______ after gram staining?",
+    "options": ["Purple", "Pink", "Red", "Brown"],
+    "answer": "Purple"
+  },
+  {
+    "question": "Which organism needs to enter a living cell to replicate?",
+    "options": ["Virus", "Bacteria", "Fungi", "Yeast"],
+    "answer": "Virus"
+  },
+  {
+    "question": "Which organism hijacks a person's cellular machinery to produce clones?",
+    "options": ["Virus", "Bacteria", "Fungi", "Yeast"],
+    "answer": "Virus"
+  },
+  {
+    "question": "Which of the following is not a typical shape of virus?",
+    "options": ["Trapezoid", "Polyhedral", "Spherical", "Helical"],
+    "answer": "Trapezoid"
+  },
+  {
+  "question": "Which fungus is commonly known as black bread mold?",
+  "options": [
+    "Rhizopus stolonifer",
+    "Rhizopus mucoraceae",
+    "Aspergillus niger",
+    "Candida albicans"
+  ],
+  "answer": "Rhizopus stolonifer"
+},
+{
+  "question": "Which of the following is not an edible mushroom?",
+  "options": [
+    "Amanita",
+    "Oyster mushroom",
+    "Morel mushroom",
+    "Portobello mushroom"
+  ],
+  "answer": "Amanita"
+},
+{
+  "question": "The Greek word 'Eu' means?",
+  "options": ["Well", "Large", "Round", "Embryo"],
+  "answer": "Well"
+},
+{
+  "question": "Which of the following is a eukaryotic cell?",
+  "options": ["Protozoan", "Virus", "Bacteria", "None of these"],
+  "answer": "Protozoan"
+},
+{
+  "question": "Which of the following is not a eukaryotic cell?",
+  "options": ["Bacteria", "Protozoan", "Fungi", "Animal"],
+  "answer": "Bacteria"
+},
+{
+  "question": "Which is not a characteristic of eukaryotic cell?",
+  "options": [
+    "Circular DNA",
+    "Membrane enclosed nucleus",
+    "Membrane bound organelles",
+    "Cytoskeleton"
+  ],
+  "answer": "Circular DNA"
+},
+{
+  "question": "Cell wall is present in?",
+  "options": [
+    "Only plant cells",
+    "Only animal cells",
+    "Plant and animal cells",
+    "Protozoans"
+  ],
+  "answer": "Only plant cells"
+},
+{
+  "question": "Which is not a function of cell wall?",
+  "options": [
+    "Helps in water transport",
+    "Provides shape to cell",
+    "Cell to cell interaction",
+    "Protection against injury"
+  ],
+  "answer": "Helps in water transport"
+},
+{
+  "question": "Cell membrane is also called?",
+  "options": [
+    "Plasma membrane",
+    "Plasmalemma",
+    "Cell wall",
+    "Nuclear membrane"
+  ],
+  "answer": "Plasmalemma"
+},
+{
+  "question": "Cell membrane is made up of?",
+  "options": [
+    "Phospholipid bilayer",
+    "Phospholipid trilayer",
+    "Glycolipid layer",
+    "Phospholipid layer"
+  ],
+  "answer": "Phospholipid bilayer"
+},
+{
+  "question": "Which component positions organelles in a cell?",
+  "options": ["Cytoskeleton", "Cytoplasm", "Cell membrane", "Cell wall"],
+  "answer": "Cytoskeleton"
+},
+{
+  "question": "Center of nucleus is called?",
+  "options": ["Nucleolus", "Nucleoplasm", "Nuclear membrane", "Chromatin"],
+  "answer": "Nucleolus"
+},
+{
+  "question": "Function of ribosomes is?",
+  "options": [
+    "Protein synthesis",
+    "Chromatin synthesis",
+    "ER synthesis",
+    "Enzyme synthesis"
+  ],
+  "answer": "Protein synthesis"
+},
+{
+  "question": "Ribosome is attached to?",
+  "options": [
+    "Endoplasmic reticulum",
+    "Golgi complex",
+    "Mitochondria",
+    "Lysosome"
+  ],
+  "answer": "Endoplasmic reticulum"
+},
+{
+  "question": "Consistency of cytoplasm is?",
+  "options": ["Semisolid", "Solid", "Liquid", "Gaseous"],
+  "answer": "Semisolid"
+},
+{
+  "question": "Which is not a function of cytoskeleton?",
+  "options": [
+    "Transport of ions",
+    "Cell shape",
+    "Cell movement",
+    "Positioning organelles"
+  ],
+  "answer": "Transport of ions"
+},
+{
+  "question": "In eukaryotic cells DNA is?",
+  "options": ["Linear", "Circular", "Irregular", "Flat"],
+  "answer": "Linear"
+},
+{
+  "question": "Function of nucleolus is to produce?",
+  "options": ["Ribosomes", "Proteins", "Enzymes", "Energy"],
+  "answer": "Ribosomes"
+},
+{
+  "question": "Ribosomes are found attached to?",
+  "options": [
+    "Nucleus and ER",
+    "ER and mitochondria",
+    "Nucleus and mitochondria",
+    "Nucleolus and mitochondria"
+  ],
+  "answer": "Nucleus and ER"
+},
+{
+  "question": "Synthesis of cholesterol occurs in?",
+  "options": ["Smooth ER", "Rough ER", "Golgi complex", "Centromere"],
+  "answer": "Smooth ER"
+},
+{
+  "question": "Molecule that functions as energy currency of cell is?",
+  "options": [
+    "Adenosine triphosphate",
+    "Adenosine diphosphate",
+    "Adenosine monophosphate",
+    "Adenosine phosphate"
+  ],
+  "answer": "Adenosine triphosphate"
+},
+{
+  "question": "Matrix of mitochondria contains DNA and?",
+  "options": ["Ribosomes", "Vacuoles", "Centrioles", "ER"],
+  "answer": "Ribosomes"
+},
+{
+  "question": "Golgi complex releases?",
+  "options": ["Vesicles", "Ribosomes", "Vacuoles", "Centrioles"],
+  "answer": "Vesicles"
+},
+{
+  "question": "Suicide bags of the cell are?",
+  "options": ["Lysosomes", "Centrioles", "Vacuoles", "Centromeres"],
+  "answer": "Lysosomes"
+},
+{
+  "question": "Cytoskeletal components are synthesized by?",
+  "options": ["Ribosomes", "Centromere", "Vacuoles", "Vesicles"],
+  "answer": "Ribosomes"
+},
+{
+  "question": "Membrane around the vacuole is called?",
+  "options": ["Tonoplast", "Chloroplast", "Leucoplast", "Centroplast"],
+  "answer": "Tonoplast"
+},
+{
+  "question": "Shape of plant cells is generally?",
+  "options": ["Rectangular", "Circular", "Irregular", "Flat"],
+  "answer": "Rectangular"
+},
+{
+  "question": "Composites are defined as?",
+  "options": [
+    "Two or more constituent materials",
+    "Materials with similar chemical properties",
+    "Materials with similar physical properties",
+    "Only one material with different shapes and colours"
+  ],
+  "answer": "Two or more constituent materials"
+},
+{
+  "question": "Which is not a beneficial aspect of composites?",
+  "options": [
+    "Heavy weight",
+    "Corrosion resistance",
+    "High durability",
+    "Design flexibility"
+  ],
+  "answer": "Heavy weight"
+},
+{
+  "question": "Composites are used in?",
+  "options": [
+    "All the fields mentioned",
+    "Only in constructions",
+    "Only in medical applications",
+    "Only in transportation"
+  ],
+  "answer": "All the fields mentioned"
+},
+{
+  "question": "Composite materials are used in construction due to?",
+  "options": [
+    "Better than traditional building materials",
+    "Heavy weight",
+    "Different shapes available",
+    "Different colours available"
+  ],
+  "answer": "Better than traditional building materials"
+},
+{
+  "question": "FRP composites are created using?",
+  "options": [
+    "Plastic polymer resin and glass fibres",
+    "Ceramic polymer resin",
+    "Metal polymer resin",
+    "Only plastic polymers"
+  ],
+  "answer": "Plastic polymer resin and glass fibres"
+},
+{
+  "question": "FRP composites are created through combination of a plastic polymer resin with strong?",
+  "options": ["Fibres", "Glass", "Metal", "Ceramic"],
+  "answer": "Fibres"
+},
+{
+  "question": "Bio-composites are fabricated by combining ______ in a matrix material.",
+  "options": [
+    "Natural fibres",
+    "Natural rubber",
+    "Synthetic fibres",
+    "Synthetic rubber"
+  ],
+  "answer": "Natural fibres"
+},
+{
+  "question": "Which is an example of a natural bio-composite?",
+  "options": ["Wood", "Rubber", "Cotton", "Jute"],
+  "answer": "Wood"
+},
+{
+  "question": "Natural fibres are abundant and have?",
+  "options": [
+    "Low harvesting costs",
+    "High harvesting costs",
+    "Low growth rate",
+    "High growth rate"
+  ],
+  "answer": "Low harvesting costs"
+},
+{
+  "question": "Synthetic fibres have?",
+  "options": [
+    "Recycling issues",
+    "Production issues",
+    "Transport issues",
+    "Raw material issues"
+  ],
+  "answer": "Recycling issues"
+},
+{
+  "question": "Synthetic fibres generate?",
+  "options": [
+    "Toxic byproducts",
+    "Non-toxic byproducts",
+    "No byproducts",
+    "Neutral byproducts"
+  ],
+  "answer": "Toxic byproducts"
+},
+{
+  "question": "Biocomposites are made using?",
+  "options": [
+    "Reinforcement and matrix",
+    "Reinforcement and filler",
+    "Matrix and thermosets",
+    "Matrix and polymers"
+  ],
+  "answer": "Reinforcement and matrix"
+},
+{
+  "question": "Which is not a natural fibre?",
+  "options": ["Isocyanate", "Cotton", "Hemp", "Flax"],
+  "answer": "Isocyanate"
+},
+{
+  "question": "Hybrid biocomposites are derived by?",
+  "options": [
+    "Fibre and matrix blending",
+    "Only fibre blending",
+    "Only matrix blending",
+    "Only polymer blending"
+  ],
+  "answer": "Fibre and matrix blending"
+},
+{
+  "question": "Which is not expected in case of biocomposites?",
+  "options": [
+    "Rottening",
+    "Light weight",
+    "Recyclability",
+    "Local production"
+  ],
+  "answer": "Rottening"
+},
+{
+  "question": "Termite mounds sometimes have a diameter of ______ metres.",
+  "options": ["30", "40", "50", "60"],
+  "answer": "30"
+},
+{
+  "question": "Which material is not used by termites for mound construction?",
+  "options": ["Wood", "Soil", "Saliva", "Dung"],
+  "answer": "Wood"
+},
+{
+  "question": "Although termite mound appears solid, the structure is incredibly?",
+  "options": ["Porous", "Non-porous", "Wet", "Hot"],
+  "answer": "Porous"
+},
+{
+  "question": "Termite mounds are often occupied by?",
+  "options": ["Snakes", "Rats", "Frogs", "Bats"],
+  "answer": "Snakes"
+},
+{
+  "question": "Termite mound chimneys ventilate which gas?",
+  "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+  "answer": "Carbon dioxide"
+},
+{
+  "question": "Heat exchangers are devices designed to transfer heat between?",
+  "options": [
+    "All of these",
+    "Vapours",
+    "Gases",
+    "Liquids"
+  ],
+  "answer": "All of these"
+},
+{
+  "question": "Heat transfer in heat exchangers occurs through which separator?",
+  "options": ["Solid", "Liquid", "Gas", "Vapour"],
+  "answer": "Solid"
+},
+{
+  "question": "Which prevents mixing of fluids in heat exchangers?",
+  "options": [
+    "Solid separator",
+    "Liquid separator",
+    "Gas separator",
+    "Vapour separator"
+  ],
+  "answer": "Solid separator"
+},
+{
+  "question": "When hot and cold fluids flow in opposite directions, it is called?",
+  "options": [
+    "Counter current",
+    "Co-current",
+    "Cross current",
+    "Parallel current"
+  ],
+  "answer": "Counter current"
+},
+{
+  "question": "Heat exchangers prevent vehicle engines from?",
+  "options": ["Overheating", "Overspeed", "Overcharge", "Overcooling"],
+  "answer": "Overheating"
+},
+{
+  "question": "In large fish, core body temperature is maintained by?",
+  "options": [
+    "Counter current heat exchange",
+    "Concurrent heat exchange",
+    "Net current exchange",
+    "Anti current exchange"
+  ],
+  "answer": "Counter current heat exchange"
+},
+{
+  "question": "Tuna fish core body temperature is similar to?",
+  "options": ["Mammals", "Reptiles", "Insects", "Worms"],
+  "answer": "Mammals"
+},
+{
+  "question": "Tuna fish is often called?",
+  "options": [
+    "Warm blooded fish",
+    "Cold blooded fish",
+    "Slow moving fish",
+    "Tiny fish"
+  ],
+  "answer": "Warm blooded fish"
+},
+{
+  "question": "Higher amount of heat in tuna fish is generated due to?",
+  "options": [
+    "Muscle action",
+    "Nerve action",
+    "Backbone action",
+    "Blood vessel action"
+  ],
+  "answer": "Muscle action"
+},
+{
+  "question": "Core body temperature of an animal may rise up to?",
+  "options": ["42°C", "82°C", "62°C", "72°C"],
+  "answer": "42°C"
+},
+{
+  "question": "Who drew the first aircraft design art?",
+  "options": [
+    "Leonardo da Vinci",
+    "Donatello",
+    "Michelangelo",
+    "Raphael"
+  ],
+  "answer": "Leonardo da Vinci"
+},
+{
+  "question": "The aircraft design art drawn during the 14th century was named as?",
+  "options": [
+    "Helical air screw",
+    "Elliptical air screw",
+    "Rounded air screw",
+    "Axial air screw"
+  ],
+  "answer": "Helical air screw"
+},
+{
+  "question": "The Wright brothers’ first flight was named?",
+  "options": [
+    "Flyer 1",
+    "Trailer 1",
+    "Arial 1",
+    "Helical 1"
+  ],
+  "answer": "Flyer 1"
+},
+{
+  "question": "By observing birds, the Wright brothers controlled their airplane using?",
+  "options": [
+    "Wing warping method",
+    "Wing wrapping method",
+    "Wing folding method",
+    "Wing stretching method"
+  ],
+  "answer": "Wing warping method"
+},
+{
+  "question": "The contour of bird wing design shows?",
+  "options": [
+    "Minimum resistance for wind",
+    "Maximum resistance for wind",
+    "No resistance for wind",
+    "Threshold resistance for wind"
+  ],
+  "answer": "Minimum resistance for wind"
+},
+{
+  "question": "Aspect ratio in wing design is defined as?",
+  "options": [
+    "Length to width",
+    "Width to length",
+    "Length to thickness",
+    "Width to thickness"
+  ],
+  "answer": "Length to width"
+},
+{
+  "question": "Aspect ratio of bird wings varies from?",
+  "options": [
+    "1.5–18",
+    "1.5–1.8",
+    "15–18",
+    "150–180"
+  ],
+  "answer": "1.5–18"
+},
+{
+  "question": "As aspect ratio increases, flight adaptability becomes?",
+  "options": [
+    "Better",
+    "Worse",
+    "No change",
+    "Cannot be determined"
+  ],
+  "answer": "Better"
+},
+{
+  "question": "When air moves over the wing, air pressure above the wing?",
+  "options": [
+    "Decreases",
+    "Increases",
+    "Remains same",
+    "Cannot be determined"
+  ],
+  "answer": "Decreases"
+},
+{
+  "question": "When air moves over the wing, air pressure below the wing?",
+  "options": [
+    "Increases",
+    "Decreases",
+    "Remains same",
+    "Cannot be determined"
+  ],
+  "answer": "Increases"
+},
+{
+  "question": "Wing blades at the hind edge of airplane are withdrawn while?",
+  "options": [
+    "Gliding",
+    "Landing",
+    "Take off",
+    "On runway"
+  ],
+  "answer": "Gliding"
+},
+{
+  "question": "Wing blades at the hind edge are extended and thrust downward while?",
+  "options": [
+    "Landing",
+    "Take off",
+    "Gliding",
+    "On runway"
+  ],
+  "answer": "Landing"
+},
+{
+  "question": "Birds change wing shape using?",
+  "options": [
+    "Feathers",
+    "Legs",
+    "Knees",
+    "Beaks"
+  ],
+  "answer": "Feathers"
+},
+{
+  "question": "The inventor of modern helicopter is?",
+  "options": [
+    "Igor Sikorsky",
+    "Louis-Charles",
+    "Jacques Breguet",
+    "Wright brothers"
+  ],
+  "answer": "Igor Sikorsky"
+},
+{
+  "question": "Helicopter analogy is with which living creature?",
+  "options": [
+    "Dragonfly",
+    "Butterfly",
+    "Honey bee",
+    "Birds"
+  ],
+  "answer": "Dragonfly"
+},
+{
+  "question": "How many sets of wings does a dragonfly have?",
+  "options": [
+    "Two",
+    "Three",
+    "Four",
+    "One"
+  ],
+  "answer": "Two"
+},
+{
+  "question": "Which part stabilizes the helicopter during flight?",
+  "options": [
+    "Tail rotor",
+    "Rotor mast",
+    "Rotor blades",
+    "Tail boom"
+  ],
+  "answer": "Tail rotor"
+},
+{
+  "question": "Helicopter changes course by altering angle of attack using?",
+  "options": [
+    "Mechanical levers",
+    "Electrical cables",
+    "Landing skids",
+    "Cockpits"
+  ],
+  "answer": "Mechanical levers"
+},
+{
+  "question": "During Bernoulli lift, air moves _____ over the top of the wing?",
+  "options": [
+    "Faster",
+    "Slower",
+    "Opposite direction",
+    "Same speed"
+  ],
+  "answer": "Faster"
+},
+{
+  "question": "High lift devices of airplane perform similar function to which bird organ?",
+  "options": [
+    "Wings",
+    "Legs",
+    "Neck",
+    "Bill"
+  ],
+  "answer": "Wings"
+},
+{
+  "question": "When dragonfly moves forward, propulsion is provided by?",
+  "options": [
+    "Rear wings",
+    "Front wings",
+    "Tail",
+    "Legs"
+  ],
+  "answer": "Rear wings"
+},
+{
+  "question": "When dragonfly moves forward, front wings provide?",
+  "options": [
+    "Lift",
+    "Propulsion",
+    "Pressure",
+    "Rotation"
+  ],
+  "answer": "Lift"
+},
+{
+  "question": "Absence of which part causes helicopter to rotate about its axis?",
+  "options": [
+    "Tail rotor",
+    "Rotor blades",
+    "Wing sections",
+    "Mechanical levers"
+  ],
+  "answer": "Tail rotor"
+},
+{
+  "question": "Helicopter blades and dragonfly wings are designed so that?",
+  "options": [
+    "Air flows faster through upper region",
+    "Air flows slower through upper region",
+    "Air flows faster through lower region",
+    "Air flows slower through lower region"
+  ],
+  "answer": "Air flows faster through upper region"
+},
+{
+  "question": "Dragonfly adjusts angle of attack by?",
+  "options": [
+    "Beating wings in different pattern",
+    "Rotating about its axis",
+    "Fluttering wings",
+    "Changing mass"
+  ],
+  "answer": "Beating wings in different pattern"
+},
+{
+  "question": "Helicopter blades are made of composite materials to prevent?",
+  "options": [
+    "Cracking under stress",
+    "Altering angle of attack",
+    "Lift and propulsion loss",
+    "Upward suction effect"
+  ],
+  "answer": "Cracking under stress"
+},
+{
+  "question": "Slower airflow below rotor blades causes helicopter to be?",
+  "options": [
+    "Pushed upwards",
+    "Pushed downwards",
+    "Pulled upwards",
+    "Pulled downwards"
+  ],
+  "answer": "Pushed upwards"
+},
+{
+  "question": "Civilian submarines used for marine research is called?",
+  "options": [
+    "Oceanography",
+    "Windography",
+    "Hydrography",
+    "Marinography"
+  ],
+  "answer": "Oceanography"
+},
+{
+  "question": "Whale body contour resembles a?",
+  "options": [
+    "Submarine",
+    "Airplane",
+    "Helicopter",
+    "Cruise ship"
+  ],
+  "answer": "Submarine"
+},
+{
+  "question": "Major similarity between whale body and submarine is?",
+  "options": [
+    "Shape of body",
+    "Colour",
+    "Capacity",
+    "Speed"
+  ],
+  "answer": "Shape of body"
+},
+{
+  "question": "Name of the first biodegradable leather is?",
+  "options": ["Desserto", "Adriano", "Di Marti", "Bionic Exhale"],
+  "answer": "Desserto"
+},
+{
+  "question": "The first biodegradable leather was developed in?",
+  "options": ["Mexico", "USA", "Canada", "Brazil"],
+  "answer": "Mexico"
+},
+{
+  "question": "The company which patented the first biodegradable leather is?",
+  "options": [
+    "Adriano Di Marti",
+    "Desserto",
+    "Lakhaani-Arman",
+    "Prickly pear"
+  ],
+  "answer": "Adriano Di Marti"
+},
+{
+  "question": "The cactus from which biodegradable leather is manufactured is also known as?",
+  "options": [
+    "Prickly pear",
+    "Breathing leaf",
+    "Arborea",
+    "Indian cactus"
+  ],
+  "answer": "Prickly pear"
+},
+{
+  "question": "What motivated inventors to design biodegradable leather?",
+  "options": [
+    "Environmental pollution",
+    "Large land requirement",
+    "Surplus cactus production",
+    "More arable land"
+  ],
+  "answer": "Environmental pollution"
+},
+{
+  "question": "Can biodegradable leather be used in fabric manufacturing?",
+  "options": [
+    "Yes, without any modification",
+    "Yes, but chemical treatment is required",
+    "Only limited fabrics",
+    "No, it cannot be used"
+  ],
+  "answer": "Yes, without any modification"
+},
+{
+  "question": "Carbon sequestering capacity of cactus absorbs about 8000 tons of CO2 and produces?",
+  "options": [
+    "15 tons per year",
+    "5000 tons per year",
+    "8000 tons per year",
+    "15300 tons per year"
+  ],
+  "answer": "15 tons per year"
+},
+{
+  "question": "To produce 1 linear metre of biodegradable leather, number of cactus leaves required is?",
+  "options": ["3", "1", "30", "10"],
+  "answer": "3"
+},
+{
+  "question": "To manufacture leather from cactus, harvesting involves?",
+  "options": [
+    "Only fully grown leaves are removed",
+    "All leaves are removed",
+    "Whole plant is removed",
+    "Plant removed and replanted yearly"
+  ],
+  "answer": "Only fully grown leaves are removed"
+},
+{
+  "question": "Which is TRUE for biodegradable leather?",
+  "options": [
+    "No water pollution with chromium salts",
+    "Consumes lot of water",
+    "Consumes lot of energy",
+    "Emits more carbon"
+  ],
+  "answer": "No water pollution with chromium salts"
+},
+{
+  "question": "Life cycle analysis indicates biodegradable leather is?",
+  "options": [
+    "More sustainable",
+    "Less efficient",
+    "More energy consuming",
+    "Not comparable"
+  ],
+  "answer": "More sustainable"
+},
+{
+  "question": "GHG carbon emission is lowest in which manufacturing process?",
+  "options": [
+    "Desserto leather",
+    "PU leather",
+    "Animal leather",
+    "Artificial leather"
+  ],
+  "answer": "Desserto leather"
+},
+{
+  "question": "Name of bionic chandelier designed by Julian Melchiorri is?",
+  "options": ["Exhale", "Inhale", "Arborea", "Breathing leaf"],
+  "answer": "Exhale"
+},
+{
+  "question": "Bionic chandelier purifies air by?",
+  "options": [
+    "Producing oxygen",
+    "Producing light",
+    "Reducing moisture",
+    "Reducing light intensity"
+  ],
+  "answer": "Producing oxygen"
+},
+{
+  "question": "Number of leaves in bionic chandelier is?",
+  "options": ["70", "Numerous", "3", "24"],
+  "answer": "70"
+},
+{
+  "question": "Bionic chandelier contains?",
+  "options": [
+    "Photosynthetic algae",
+    "Artificial purifier",
+    "Light emitting spores",
+    "Metal structure"
+  ],
+  "answer": "Photosynthetic algae"
+},
+{
+  "question": "Why is bionic chandelier connected to life support device?",
+  "options": [
+    "To provide nutrients to algae",
+    "To remove odor",
+    "To replenish spores",
+    "No unit attached"
+  ],
+  "answer": "To provide nutrients to algae"
+},
+{
+  "question": "Bionic chandelier establishes symbiotic relationship between?",
+  "options": [
+    "Object and human",
+    "Object and environment",
+    "Algae and light",
+    "Human and environment"
+  ],
+  "answer": "Object and environment"
+},
+{
+  "question": "Which oil refinery byproduct is used for road construction?",
+  "options": ["Bitumen", "Asphalt", "Coal", "Kerosene"],
+  "answer": "Bitumen"
+},
+{
+  "question": "Bitumen acts as ______ in asphalt?",
+  "options": ["Binder material", "Base material", "Colouring material", "Not used"],
+  "answer": "Binder material"
+},
+{
+  "question": "Correct order of waste plastic processing for road construction is?",
+  "options": [
+    "Clean – Dry – Shred – Melt",
+    "Dry – Shred – Clean – Melt",
+    "Clean – Melt – Dry – Shred",
+    "Melt – Dry – Clean – Shred"
+  ],
+  "answer": "Clean – Dry – Shred – Melt"
+},
+{
+  "question": "Natural alternative to bitumen is?",
+  "options": ["Lignin", "Cactus powder", "PET/PP/HDPE", "Enzymes"],
+  "answer": "Lignin"
+},
+{
+  "question": "Process demonstrated to use lignin as binding agent is?",
+  "options": ["Pyrolysis", "Photosynthesis", "Metabolism", "Hydrolysis"],
+  "answer": "Pyrolysis"
+},
+{
+  "question": "Is lignin a complete replacement for bitumen?",
+  "options": [
+    "No, 50–50 mix demonstrated",
+    "Yes, 100% replacement",
+    "Only 10% replacement",
+    "Not suitable"
+  ],
+  "answer": "No, 50–50 mix demonstrated"
+},
+{
+  "question": "Solar powered pest control system was developed at?",
+  "options": [
+    "IIT Kharagpur",
+    "IIT Kanpur",
+    "IIT Madras",
+    "Thyagarajar College"
+  ],
+  "answer": "IIT Kharagpur"
+},
+{
+  "question": "Device used to pressurize liquid in solar pest control system is?",
+  "options": ["DC motor", "AC motor", "Solar panel", "Nozzles"],
+  "answer": "DC motor"
+},
+{
+  "question": "Wider spray area is achieved by?",
+  "options": [
+    "Multiple nozzles on boom",
+    "Multiple DC motors",
+    "Large solar panels",
+    "Low viscosity pesticides"
+  ],
+  "answer": "Multiple nozzles on boom"
+},
+{
+  "question": "Solar pest control system comes under which initiative?",
+  "options": [
+    "Atmanirbhar Bharat Abhiyan",
+    "Skill India",
+    "PMJDY",
+    "Stand Up India"
+  ],
+  "answer": "Atmanirbhar Bharat Abhiyan"
+},
+{
+  "question": "BioDCM pesticide protects crops from?",
+  "options": [
+    "Bacterial and fungal infections",
+    "Bacterial only",
+    "Fungal only",
+    "None"
+  ],
+  "answer": "Bacterial and fungal infections"
+},
+{
+  "question": "BioDCM nanoparticles were developed by?",
+  "options": [
+    "IIT Kanpur",
+    "IIT Kharagpur",
+    "IIT Madras",
+    "IIT Bombay"
+  ],
+  "answer": "IIT Kanpur"
+},
+{
+  "question": "BioDCM is extracted from?",
+  "options": [
+    "Trichoderma asperellum",
+    "Xanthomonas oryzae",
+    "Bacillus anthracis",
+    "Arabidopsis thaliana"
+  ],
+  "answer": "Trichoderma asperellum"
+},
+{
+  "question": "Trichoderma asperellum is a?",
+  "options": [
+    "Common soil fungus",
+    "Common soil bacterium",
+    "Virus",
+    "Crop variety"
+  ],
+  "answer": "Common soil fungus"
+},
+{
+  "question": "Sensor useful to measure nitrogen content in crops is?",
+  "options": ["Optical sensor", "Chemical sensor", "Mechanical sensor", "Acoustic sensor"],
+  "answer": "Optical sensor"
+},
+{
+  "question": "Device providing real-time glucose readings is?",
+  "options": [
+    "Continuous glucose monitor",
+    "Glucometer",
+    "Diabetes care device",
+    "Insulin pump"
+  ],
+  "answer": "Continuous glucose monitor"
+},
+{
+  "question": "PUMA 560 robot was used for biopsy of?",
+  "options": ["Brain", "Heart", "Lung", "Skin"],
+  "answer": "Brain"
+},
+{
+  "question": "Robots were first introduced in laparoscopic surgery in?",
+  "options": ["1987", "1897", "1988", "2001"],
+  "answer": "1987"
+},
+{
+  "question": "Robotic surgery means?",
+  "options": [
+    "Surgeon manipulates robot hands",
+    "Robot operates independently",
+    "Remote surgery without presence",
+    "Surgery for robots"
+  ],
+  "answer": "Surgeon manipulates robot hands"
+},
+{
+  "question": "Example of medical robot is?",
+  "options": ["PUMA 560", "ROMA 560", "DOLLY 650", "ROBO 110"],
+  "answer": "PUMA 560"
+},
+{
+  "question": "DexCom 7 Plus is a?",
+  "options": [
+    "CGM available in market",
+    "Brain surgery robot",
+    "Heart monitor",
+    "Medical software"
+  ],
+  "answer": "CGM available in market"
+}
+]
+
+
+  
+ 
