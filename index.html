@@ -1,114 +1,201 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Biology Quiz</title>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Biology for Engineers – Exam Quiz</title>
 
 <style>
-body {
-  font-family: Arial, sans-serif;
-  background: #0f172a;
-  color: white;
-  margin: 0;
-  padding: 10px;
+:root{
+  --bg:#0b1220;
+  --card:#121a2f;
+  --accent:#38bdf8;
+  --text:#e5e7eb;
+  --muted:#9ca3af;
+  --correct:#22c55e;
+  --wrong:#ef4444;
 }
-.container {
-  max-width: 800px;
-  margin: auto;
+
+*{box-sizing:border-box;font-family:system-ui,-apple-system,Segoe UI,Roboto;}
+body{
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
 }
-.question {
-  margin-bottom: 15px;
+
+header{
+  position:sticky;
+  top:0;
+  background:#0b1220;
+  padding:12px 16px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-bottom:1px solid #1f2937;
+  z-index:10;
 }
-.options label {
-  display: block;
-  margin: 5px 0;
+
+header h1{
+  font-size:16px;
+  margin:0;
+  color:var(--accent);
 }
-button {
-  padding: 10px 15px;
-  font-size: 16px;
-  margin-top: 10px;
+
+#timer{
+  font-size:15px;
+  font-weight:600;
 }
-#timer {
-  font-size: 18px;
-  color: #38bdf8;
-  margin-bottom: 10px;
+
+.container{
+  max-width:900px;
+  margin:auto;
+  padding:16px;
 }
-.correct { color: #22c55e; }
-.wrong { color: #ef4444; }
+
+.progress{
+  font-size:14px;
+  margin-bottom:10px;
+  color:var(--muted);
+}
+
+.question{
+  background:var(--card);
+  padding:14px;
+  border-radius:10px;
+  margin-bottom:14px;
+}
+
+.question p{
+  margin:0 0 10px;
+  font-weight:600;
+}
+
+.option{
+  display:block;
+  padding:8px 10px;
+  border-radius:8px;
+  margin-bottom:6px;
+  border:1px solid #1f2937;
+  cursor:pointer;
+}
+
+.option input{
+  margin-right:8px;
+}
+
+.option:hover{
+  border-color:var(--accent);
+}
+
+.correct{
+  border-color:var(--correct);
+  background:rgba(34,197,94,0.1);
+}
+
+.wrong{
+  border-color:var(--wrong);
+  background:rgba(239,68,68,0.1);
+}
+
+button{
+  width:100%;
+  padding:14px;
+  font-size:16px;
+  border:none;
+  border-radius:10px;
+  background:var(--accent);
+  color:#000;
+  font-weight:700;
+  cursor:pointer;
+  margin-top:16px;
+}
+
+#result{
+  margin-top:20px;
+  font-size:18px;
+  text-align:center;
+}
 </style>
 </head>
 
 <body>
+
+<header>
+  <h1>Biology for Engineers – Exam Mode</h1>
+  <div id="timer">60:00</div>
+</header>
+
 <div class="container">
-  <h2>Biology for Engineers – Quiz</h2>
-  <div id="timer">Time: 60:00</div>
-  <form id="quizForm"></form>
-  <button onclick="submitQuiz()">Submit Quiz</button>
+  <div class="progress" id="progress"></div>
+  <form id="quiz"></form>
+  <button onclick="submitQuiz()">Submit Exam</button>
   <div id="result"></div>
 </div>
 
 <script>
-let questions = [];
-let selectedQuestions = [];
-let time = 3600;
-let timerInterval;
+let allQuestions=[], quizQs=[];
+let time=3600, timer;
 
 fetch("questions.json")
-  .then(res => res.json())
-  .then(data => {
-    questions = data;
-    selectedQuestions = questions.sort(() => 0.5 - Math.random()).slice(0, 100);
-    loadQuiz();
-    startTimer();
-  });
+.then(r=>r.json())
+.then(data=>{
+  allQuestions=data;
+  quizQs=[...allQuestions].sort(()=>0.5-Math.random()).slice(0,100);
+  loadQuiz();
+  startTimer();
+});
 
-function loadQuiz() {
-  const form = document.getElementById("quizForm");
-  selectedQuestions.forEach((q, i) => {
-    const div = document.createElement("div");
-    div.className = "question";
-    div.innerHTML = `<p>${i+1}. ${q.question}</p>` +
-      q.options.map(opt =>
-        `<label>
-          <input type="radio" name="q${i}" value="${opt}">
-          ${opt}
-        </label>`
-      ).join("");
-    form.appendChild(div);
+function loadQuiz(){
+  const quiz=document.getElementById("quiz");
+  const progress=document.getElementById("progress");
+  progress.innerText=`100 Questions | Biology for Engineers`;
+
+  quizQs.forEach((q,i)=>{
+    const div=document.createElement("div");
+    div.className="question";
+    div.innerHTML=`<p>${i+1}. ${q.question}</p>`+
+      q.options.map(o=>`
+        <label class="option">
+          <input type="radio" name="q${i}" value="${o}"> ${o}
+        </label>
+      `).join("");
+    quiz.appendChild(div);
   });
 }
 
-function startTimer() {
-  timerInterval = setInterval(() => {
+function startTimer(){
+  timer=setInterval(()=>{
     time--;
-    let min = Math.floor(time / 60);
-    let sec = time % 60;
-    document.getElementById("timer").innerText =
-      `Time: ${min}:${sec.toString().padStart(2, "0")}`;
-    if (time <= 0) {
-      clearInterval(timerInterval);
-      submitQuiz();
-    }
-  }, 1000);
+    let m=Math.floor(time/60), s=time%60;
+    document.getElementById("timer").innerText=
+      `${m}:${s.toString().padStart(2,"0")}`;
+    if(time<=0){clearInterval(timer);submitQuiz();}
+  },1000);
 }
 
-function submitQuiz() {
-  clearInterval(timerInterval);
-  let score = 0;
-  selectedQuestions.forEach((q, i) => {
-    const ans = document.querySelector(`input[name="q${i}"]:checked`);
-    const div = document.getElementsByClassName("question")[i];
-    if (ans && ans.value === q.answer) {
-      score++;
-      div.innerHTML += `<p class="correct">Correct</p>`;
-    } else {
-      div.innerHTML += `<p class="wrong">Correct Answer: ${q.answer}</p>`;
+function submitQuiz(){
+  clearInterval(timer);
+  let score=0;
+  quizQs.forEach((q,i)=>{
+    const selected=document.querySelector(`input[name="q${i}"]:checked`);
+    const options=document.getElementsByName(`q${i}`);
+    options.forEach(opt=>{
+      if(opt.value===q.answer){
+        opt.parentElement.classList.add("correct");
+      }
+    });
+    if(selected){
+      if(selected.value===q.answer){
+        score++;
+      }else{
+        selected.parentElement.classList.add("wrong");
+      }
     }
   });
-  document.getElementById("result").innerHTML =
-    `<h3>Your Score: ${score} / ${selectedQuestions.length}</h3>`;
+  document.getElementById("result").innerHTML=
+    `<strong>Score:</strong> ${score} / 100`;
 }
 </script>
+
 </body>
 </html>
