@@ -151,6 +151,8 @@ function loadQuiz(){
   progress.innerText=`100 Questions | Biology for Engineers`;
 
   quizQs.forEach((q,i)=>{
+
+  q.options = q.options.sort(() => Math.random() - 0.5);
     const div=document.createElement("div");
     div.className="question";
     div.innerHTML=`<p>${i+1}. ${q.question}</p>`+
